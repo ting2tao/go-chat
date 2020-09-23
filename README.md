@@ -1,1 +1,1 @@
-# gochat
+# go-chat
